@@ -40,7 +40,7 @@ To view and interact with this dashboard, you will typically need the correspond
 
 (a) Clone the repository:
 
-git clone https://github.com/your-username/your-dashboard-repo.git
+git clone https://github.com/SonaliTiwary06/Inventory Aging & Slow-Moving Stock Analysis Dashboard 
 cd your-dashboard-repo
 
 (b) Open the dashboard file: Locate the dashboard file (e.g., .pbix for Power BI, .twbx for Tableau) and open it with the appropriate software.
